@@ -1,0 +1,11 @@
+/Users/carloslatorre/Projects/enumTest/enumTest/bin/Debug/netcoreapp2.0/enumTest.deps.json
+/Users/carloslatorre/Projects/enumTest/enumTest/bin/Debug/netcoreapp2.0/enumTest.runtimeconfig.json
+/Users/carloslatorre/Projects/enumTest/enumTest/bin/Debug/netcoreapp2.0/enumTest.runtimeconfig.dev.json
+/Users/carloslatorre/Projects/enumTest/enumTest/bin/Debug/netcoreapp2.0/enumTest.dll
+/Users/carloslatorre/Projects/enumTest/enumTest/bin/Debug/netcoreapp2.0/enumTest.pdb
+/Users/carloslatorre/Projects/enumTest/enumTest/obj/Debug/netcoreapp2.0/enumTest.csprojResolveAssemblyReference.cache
+/Users/carloslatorre/Projects/enumTest/enumTest/obj/Debug/netcoreapp2.0/enumTest.csproj.CoreCompileInputs.cache
+/Users/carloslatorre/Projects/enumTest/enumTest/obj/Debug/netcoreapp2.0/enumTest.AssemblyInfoInputs.cache
+/Users/carloslatorre/Projects/enumTest/enumTest/obj/Debug/netcoreapp2.0/enumTest.AssemblyInfo.cs
+/Users/carloslatorre/Projects/enumTest/enumTest/obj/Debug/netcoreapp2.0/enumTest.dll
+/Users/carloslatorre/Projects/enumTest/enumTest/obj/Debug/netcoreapp2.0/enumTest.pdb
